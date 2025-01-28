@@ -8,6 +8,8 @@ In this section, describe the analysis you completed for the machine learning mo
 >With machine learning we can now assess each lender history by creating models to predict the possible outcome.
   
 * Explain what financial information the data was on, and what you needed to predict.
+>Machine learning can classify loans as either low-risk (healthy) or high-risk (non-healthy) through predicting the data provided by the lending company. During the classification process, the logistic regression algorithm (lr) is used widely for machine learning model and can predict the best probability of results.
+
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
