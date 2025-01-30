@@ -13,6 +13,7 @@ In this section, describe the analysis you completed for the machine learning mo
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
+>I was able to achieve an accuracy level of 97% by using the logistic regression model. 
 
 ## Results
 
